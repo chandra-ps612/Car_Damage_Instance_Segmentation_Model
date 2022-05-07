@@ -1,7 +1,7 @@
 # Car_Damage_Instance_Segmentation_Model
 
 This colab notebook is for **Car_Damage_Instance_Segmentation** based on **Mask R-CNN Model**.
-I trained this particular model on 500 iterations and took Car_Damage dataset from Kaggle.
+I trained this particular model for 500 iterations and took Car_Damage dataset from Kaggle.
 
 **Brief about Detectron2**__
 Detectron2 is a PyTorch based framework built by Facebook AI Research to support rapid
