@@ -16,3 +16,10 @@ implementation and evaluation of novel computer vision research.
 6. TensorMask
 7. PointRend
 8. DensePose
+
+**List of Computer Vision tasks it supports**
+1. Object Detection
+2. Instance Segmentation
+3. Semantic Segmentation
+4. Pantropic Segmentation
+5. Keypoint Detection
